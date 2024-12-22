@@ -13,3 +13,6 @@
 [submodule "vendor/unity"]
 	path = vendor/unity
 	url = https://github.com/throwtheswitch/unity.git
+[submodule "testmodule"]
+	path = testmodule
+	url = https://github.com/phonique/crazyflie-testmodule.git
